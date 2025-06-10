@@ -71,8 +71,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-10T00:50:00.466Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "backend\\Models\\UpdateEmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T15:31:18.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T15:31:18.641Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "backend\\Models\\AddEmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T15:05:16.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T15:05:16.493Z"
             },
             {
               "$type": "Document",
@@ -123,8 +120,7 @@
               "RelativeToolTip": "backend\\Migrations\\20250610142808_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:28:09.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T14:28:09.194Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "backend\\Models\\Entities\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T04:37:33.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T04:37:33.156Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "backend\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:50:42.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T00:50:42.443Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "backend\\Controllers\\TodoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:20:21.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T01:20:21.022Z"
             },
             {
               "$type": "Document",
@@ -175,8 +168,7 @@
               "RelativeToolTip": "backend\\backend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-10T04:28:59.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T04:28:59.25Z"
             },
             {
               "$type": "Document",
@@ -188,8 +180,7 @@
               "RelativeToolTip": "backend\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:16:01.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T01:16:01.895Z"
             },
             {
               "$type": "Document",
@@ -201,8 +192,7 @@
               "RelativeToolTip": "backend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T00:55:48.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T00:55:48.755Z"
             },
             {
               "$type": "Document",
@@ -214,8 +204,7 @@
               "RelativeToolTip": "backend\\Models\\Entities\\TodoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:40:58.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T00:40:58.623Z"
             }
           ]
         }

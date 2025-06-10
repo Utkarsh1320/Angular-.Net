@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|solutionrelative:backend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|c:\\users\\moreu\\documents\\projects\\mainproject\\backend\\backend\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|solutionrelative:backend\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|c:\\users\\moreu\\documents\\projects\\mainproject\\backend\\backend\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|solutionrelative:backend\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|c:\\users\\moreu\\documents\\projects\\mainproject\\backend\\backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4AC5B83-3BE6-4B90-863A-9E5473EDF795}|backend\\backend.csproj|solutionrelative:backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "backend.csproj",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\backend.csproj",
               "RelativeDocumentMoniker": "backend\\backend.csproj",
@@ -68,20 +76,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "backend\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:31:18.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "backend\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:05:16.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "backend\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T14:44:58.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20250610142808_init.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Migrations\\20250610142808_init.cs",
               "RelativeDocumentMoniker": "backend\\Migrations\\20250610142808_init.cs",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "backend\\Models\\Entities\\Employee.cs",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "backend\\Data\\AppDbContext.cs",
@@ -120,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\TodoController.cs",
@@ -133,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "backend.http",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\backend.http",
               "RelativeDocumentMoniker": "backend\\backend.http",
@@ -146,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Program.cs",
               "RelativeDocumentMoniker": "backend\\Program.cs",
@@ -159,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\appsettings.json",
@@ -172,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\moreu\\Documents\\Projects\\MainProject\\backend\\backend\\Models\\Entities\\TodoItem.cs",
               "RelativeDocumentMoniker": "backend\\Models\\Entities\\TodoItem.cs",
