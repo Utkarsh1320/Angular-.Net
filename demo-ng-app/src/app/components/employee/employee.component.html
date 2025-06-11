@@ -1,0 +1,64 @@
+<div class="employee-list">
+    <h2>Employees</h2>
+    <button (click)="loadEmployees()">Show Employees</button>
+
+    <!-- Add New Employee button that appears when employees are loaded -->
+    <button *ngIf="employees.length >= 0" (click)="openAddForm()" class="add-btn">Add New Employee</button>
+
+    <!-- Add/Edit Employee Form -->
+    <div *ngIf="showForm" class="employee-form">
+        <h3>{{editMode ? 'Edit Employee' : 'Add New Employee'}}</h3>
+        <form (ngSubmit)="onSubmit()">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" [(ngModel)]="formEmployee.name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" [(ngModel)]="formEmployee.email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone:</label>
+                <input type="text" id="phone" [(ngModel)]="formEmployee.phone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="salary">Salary:</label>
+                <input type="number" id="salary" [(ngModel)]="formEmployee.salary" name="salary" required>
+            </div>
+            <button type="submit">{{editMode ? 'Update' : 'Add'}}</button>
+            <button type="button" (click)="cancelForm()">Cancel</button>
+        </form>
+    </div>
+
+    <table *ngIf="employees.length > 0">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let employee of employees">
+                <td>{{employee.id}}</td>
+                <td>{{employee.name}}</td>
+                <td>{{employee.email}}</td>
+                <td>
+                    <button (click)="viewEmployee(employee.id)">View</button>
+                    <button (click)="editEmployee(employee)">Edit</button>
+                    <button (click)="deleteEmployee(employee.id)">Delete</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div *ngIf="selectedEmployee">
+        <h3>Selected Employee Details</h3>
+        <p>ID: {{selectedEmployee.id}}</p>
+        <p>Name: {{selectedEmployee.name}}</p>
+        <p>Email: {{selectedEmployee.email}}</p>
+        <p>Phone: {{selectedEmployee.phone}}</p>
+        <p>Salary: {{selectedEmployee.salary}}</p>
+    </div>
+</div>

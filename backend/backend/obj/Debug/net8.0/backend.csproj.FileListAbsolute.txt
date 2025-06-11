@@ -167,3 +167,4 @@ C:\Users\moreu\Documents\Projects\MainProject\backend\backend\bin\Debug\net8.0\r
 C:\Users\moreu\Documents\Projects\MainProject\backend\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\moreu\Documents\Projects\MainProject\backend\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\moreu\Documents\Projects\MainProject\backend\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\moreu\Documents\Projects\MainProject\backend\backend\obj\Debug\net8.0\backend.sourcelink.json
